@@ -1,4 +1,5 @@
 ## Case Study: Credit Card Fraud Detection
+Anomaly Detection for Tabular Data
 
 Fraud detection is a popular application of anomaly detection. Since the instances of fraud cases is so minimal compared to non-fraud, there is a need to use outlier detection. In this tutorial, we will go over a popular dataset known as the "Credit Card Fraud Detection" dataset.
 
